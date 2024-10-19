@@ -4,19 +4,6 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <HelloWorld msg="Vite + Vue" />
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "WebSite",
-      "name": "Your Website Name",
-      "url": "https://www.yourwebsite.com",
-      "potentialAction": {
-        "@type": "SearchAction",
-        "target": "https://www.yourwebsite.com/search?q={search_term_string}",
-        "query-input": "required name=search_term_string"
-      }
-    }
-  </script>
 </template>
 
 <style scoped>
