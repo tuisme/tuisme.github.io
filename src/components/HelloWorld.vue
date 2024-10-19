@@ -383,7 +383,7 @@ onMounted(async () => {
                   <use fill="url(#fb5-e)" xlink:href="#fb5-d"></use>
                 </svg>
                 <h3 class="c4ryg chiic cv4op">Chạy quảng cáo</h3>
-                <p class="csmmp cg9j4">Chạy quảng cáo là quá trình tạo và quản lý các chiến dịch quảng cáo trên các nền tảng trực tuyến như Google Ads, Facebook Ads, và Instagram Ads. Nó bao gồm việc thiết kế nội dung quảng cáo, lựa chọn đối tượng mục tiêu, và tối ưu hóa chiến dịch để đạt được hiệu quả cao nhất. Mục tiêu là tăng cường nhận diện thương hiệu và thu hút khách hàng tiềm năng.</p>ư
+                <p class="csmmp cg9j4">Chạy quảng cáo là quá trình tạo và quản lý các chiến dịch quảng cáo trên các nền tảng trực tuyến như Google Ads, Facebook Ads, và Instagram Ads. Nó bao gồm việc thiết kế nội dung quảng cáo, lựa chọn đối tượng mục tiêu, và tối ưu hóa chiến dịch để đạt được hiệu quả cao nhất. Mục tiêu là tăng cường nhận diện thương hiệu và thu hút khách hàng tiềm năng.</p>
               </div>
 
               <!-- 6th item -->
@@ -415,9 +415,8 @@ onMounted(async () => {
                   <use fill-opacity=".64" fill="#E2EEFF" xlink:href="#fb6-e"></use>
                 </svg>
                 <h3 class="c4ryg chiic cv4op">Viết bài</h3>
-                <p class="csmmp cg9j4">Tạo ra nội dung văn bản cho các mục đích khác nhau như blog, báo chí, hoặc tài liệu kỹ thuật. Nó bao gồm việc nghiên cứu, lập kế hoạch, viết và chỉnh sửa để đảm bảo nội dung rõ ràng, hấp dẫn và chính xác. Mục tiêu là truyền đạt thông tin một cách hiệu quả và thu hút sự quan tâm của người đọc.</p>ư
+                <p class="csmmp cg9j4">Tạo ra nội dung văn bản cho các mục đích khác nhau như blog, báo chí, hoặc tài liệu kỹ thuật. Nó bao gồm việc nghiên cứu, lập kế hoạch, viết và chỉnh sửa để đảm bảo nội dung rõ ràng, hấp dẫn và chính xác. Mục tiêu là truyền đạt thông tin một cách hiệu quả và thu hút sự quan tâm của người đọc.</p>
               </div>
-
             </div>
 
           </div>
