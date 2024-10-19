@@ -3415,3 +3415,22 @@ input[type=range]::-moz-focus-outer {
     --tw-space-x-reverse: 1
   }
 }
+.svg-icon {
+  width: 100px;
+  height: 100px;
+}
+.svg-tag {
+  width: 150px;
+  height: 150px;
+  border: 1px solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+}
+.feature-block {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
