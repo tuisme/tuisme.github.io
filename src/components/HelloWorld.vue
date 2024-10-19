@@ -175,7 +175,7 @@ onMounted(async () => {
                 <div class="cni8m cpccj cmxqt">
                   <div class="ctd17">
                     <div class="cdw1p coa3w ceivd cmq04 cd7c9 c0hop c7hvf ct2qg cap31 c39ws" aria-hidden="true"></div>
-                    <img class="comxp cc4l3" src="./images/hero-image-01.jpg" width="540" height="405" alt="Hero">
+                    <img class="comxp cc4l3" src="https://preview.cruip.com/tidy/images/hero-image-01.jpg" width="540" height="405" alt="Hero">
                   </div>
                   <button class="cd7c9 cuuxz" @click.prevent="modalExpanded = true" aria-controls="modal">
                     <svg class="c6urr c5nmn cvas6 cuuxz cdiok cn59r" viewBox="0 0 88 88" xmlns="http://www.w3.org/2000/svg">
@@ -486,16 +486,16 @@ onMounted(async () => {
               <!-- Tab items -->
               <div class="ctd17 chg82 cmxqt aos-init aos-animate" data-aos="fade-up">
                 <div x-show="tab === '1'" x-transition:enter="cebnw czxk3 c5adh c9yxr" x-transition:enter-start="cyixi cbhm3" x-transition:enter-end="c03gd cid49" x-transition:leave="cebnw czxk3 cjg84 cd7c9" x-transition:leave-start="c03gd cid49" x-transition:leave-end="cyixi cz709">
-                  <img class="cup1z cc4l3" src="./images/features-home-01.jpg" width="768" height="474" alt="Features home 01">
+                  <img class="cup1z cc4l3" src="https://preview.cruip.com/tidy/images/features-home-01.jpg" width="768" height="474" alt="Features home 01">
                 </div>
                 <div x-show="tab === '2'" x-transition:enter="cebnw czxk3 c5adh c9yxr" x-transition:enter-start="cyixi cbhm3" x-transition:enter-end="c03gd cid49" x-transition:leave="cebnw czxk3 cjg84 cd7c9" x-transition:leave-start="c03gd cid49" x-transition:leave-end="cyixi cz709" style="display: none;">
-                  <img class="cup1z cc4l3" src="./images/features-home-01.jpg" width="768" height="474" alt="Features home 02">
+                  <img class="cup1z cc4l3" src="https://preview.cruip.com/tidy/images/features-home-01.jpg" width="768" height="474" alt="Features home 02">
                 </div>
                 <div x-show="tab === '3'" x-transition:enter="cebnw czxk3 c5adh c9yxr" x-transition:enter-start="cyixi cbhm3" x-transition:enter-end="c03gd cid49" x-transition:leave="cebnw czxk3 cjg84 cd7c9" x-transition:leave-start="c03gd cid49" x-transition:leave-end="cyixi cz709" style="display: none;">
-                  <img class="cup1z cc4l3" src="./images/features-home-01.jpg" width="768" height="474" alt="Features home 03">
+                  <img class="cup1z cc4l3" src="https://preview.cruip.com/tidy/images/features-home-01.jpg" width="768" height="474" alt="Features home 03">
                 </div>
                 <div x-show="tab === '4'" x-transition:enter="cebnw czxk3 c5adh c9yxr" x-transition:enter-start="cyixi cbhm3" x-transition:enter-end="c03gd cid49" x-transition:leave="cebnw czxk3 cjg84 cd7c9" x-transition:leave-start="c03gd cid49" x-transition:leave-end="cyixi cz709" style="display: none;">
-                  <img class="cup1z cc4l3" src="./images/features-home-01.jpg" width="768" height="474" alt="Features home 04">
+                  <img class="cup1z cc4l3" src="https://preview.cruip.com/tidy/images/features-home-01.jpg" width="768" height="474" alt="Features home 04">
                 </div>
               </div>
 
@@ -523,15 +523,15 @@ onMounted(async () => {
                 <div class="ctd17 chg82 cmxqt">
                   <!-- Item 1 -->
                   <div class="ce83r" x-show="tab === '1'" x-transition:enter="cebnw czxk3 c5adh cuxdo c9yxr" x-transition:enter-start="cyixi cbhm3" x-transition:enter-end="c03gd cid49" x-transition:leave="cebnw czxk3 cjg84 cuxdo cd7c9" x-transition:leave-start="c03gd cid49" x-transition:leave-end="cyixi cz709">
-                    <img class="comxp cc4l3 ct7bo" src="./images/features-home-02.png" width="540" height="620" alt="Features home 2 01">
+                    <img class="comxp cc4l3 ct7bo" src="https://preview.cruip.com/tidy/images/features-home-02.png" width="540" height="620" alt="Features home 2 01">
                   </div>
                   <!-- Item 2 -->
                   <div class="ce83r" x-show="tab === '2'" x-transition:enter="cebnw czxk3 c5adh cuxdo c9yxr" x-transition:enter-start="cyixi cbhm3" x-transition:enter-end="c03gd cid49" x-transition:leave="cebnw czxk3 cjg84 cuxdo cd7c9" x-transition:leave-start="c03gd cid49" x-transition:leave-end="cyixi cz709" style="display: none;">
-                    <img class="comxp cc4l3 ct7bo" src="./images/features-home-02.png" width="540" height="620" alt="Features home 2 02">
+                    <img class="comxp cc4l3 ct7bo" src="https://preview.cruip.com/tidy/images/features-home-02.png" width="540" height="620" alt="Features home 2 02">
                   </div>
                   <!-- Item 3 -->
                   <div class="ce83r" x-show="tab === '3'" x-transition:enter="cebnw czxk3 c5adh cuxdo c9yxr" x-transition:enter-start="cyixi cbhm3" x-transition:enter-end="c03gd cid49" x-transition:leave="cebnw czxk3 cjg84 cuxdo cd7c9" x-transition:leave-start="c03gd cid49" x-transition:leave-end="cyixi cz709" style="display: none;">
-                    <img class="comxp cc4l3 ct7bo" src="./images/features-home-02.png" width="540" height="620" alt="Features home 2 03">
+                    <img class="comxp cc4l3 ct7bo" src="https://preview.cruip.com/tidy/images/features-home-02.png" width="540" height="620" alt="Features home 2 03">
                   </div>
                 </div>
               </div>
@@ -602,7 +602,7 @@ onMounted(async () => {
                 <a class="block ctd17 cuuxz cc3ji cx2ha" href="#0">
                   <div class="chwia cv5ho cdw1p ck8gg cvk7y ceivd cjg84 c4ug2 cebnw cd7c9 c0hop ch6f7 c7hvf ct2qg" aria-hidden="true"></div>
                   <div class="cp4zc">
-                    <img class="clgwa csqag ckemv c5adh cebnw ch6f7 ce83r" src="./images/features-home-3-01.jpg" width="342" height="342" alt="News 01">
+                    <img class="clgwa csqag ckemv c5adh cebnw ch6f7 ce83r" src="https://preview.cruip.com/tidy/images/features-home-3-01.jpg" width="342" height="342" alt="News 01">
                   </div>
                   <div class="cugo1 cwbd8 c4kmg c8u3l cd7c9 cvrk6 cdx1x cdiok cn59r">
                     <svg class="c6urr cdiok cn59r" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
@@ -621,7 +621,7 @@ onMounted(async () => {
                 <a class="block ctd17 cuuxz cc3ji cx2ha" href="#0">
                   <div class="chwia cv5ho cdw1p ck8gg cvk7y ceivd cjg84 c4ug2 cebnw cd7c9 c0hop ch6f7 c7hvf ct2qg" aria-hidden="true"></div>
                   <div class="cp4zc">
-                    <img class="clgwa csqag ckemv c5adh cebnw ch6f7 ce83r" src="./images/features-home-3-02.jpg" width="342" height="342" alt="News 02">
+                    <img class="clgwa csqag ckemv c5adh cebnw ch6f7 ce83r" src="https://preview.cruip.com/tidy/images/features-home-3-02.jpg" width="342" height="342" alt="News 02">
                   </div>
                   <div class="cugo1 cwbd8 c4kmg c8u3l cd7c9 cvrk6 cdx1x cdiok cn59r">
                     <svg class="c6urr cdiok cn59r" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
@@ -640,7 +640,7 @@ onMounted(async () => {
                 <a class="block ctd17 cuuxz cc3ji cx2ha" href="#0">
                   <div class="chwia cv5ho cdw1p ck8gg cvk7y ceivd cjg84 c4ug2 cebnw cd7c9 c0hop ch6f7 c7hvf ct2qg" aria-hidden="true"></div>
                   <div class="cp4zc">
-                    <img class="clgwa csqag ckemv c5adh cebnw ch6f7 ce83r" src="./images/features-home-3-03.jpg" width="342" height="342" alt="News 03">
+                    <img class="clgwa csqag ckemv c5adh cebnw ch6f7 ce83r" src="https://preview.cruip.com/tidy/images/features-home-3-03.jpg" width="342" height="342" alt="News 03">
                   </div>
                   <div class="cugo1 cwbd8 c4kmg c8u3l cd7c9 cvrk6 cdx1x cdiok cn59r">
                     <svg class="c6urr cdiok cn59r" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
@@ -709,7 +709,7 @@ onMounted(async () => {
 
               <!-- Image -->
               <div class="cri0v cz9zg aos-init aos-animate" data-aos="fade-left">
-                <img class="comxp cc4l3" src="./images/target.png" width="540" height="540" alt="Target">
+                <img class="comxp cc4l3" src="https://preview.cruip.com/tidy/images/target.png" width="540" height="540" alt="Target">
               </div>
 
             </div>
