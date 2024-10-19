@@ -319,7 +319,7 @@ onMounted(async () => {
                   <use fill="url(#fb3-e)" xlink:href="#fb3-d"></use>
                 </svg>
                 <h3 class="c4ryg chiic cv4op">Lập trình Tool</h3>
-                <p class="csmmp cg9j4">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                <p class="csmmp cg9j4">Quá trình phát triển các công cụ phần mềm để hỗ trợ các nhiệm vụ cụ thể trong công việc hoặc cuộc sống hàng ngày. Nó bao gồm việc sử dụng các ngôn ngữ lập trình như Python, JavaScript, và C# để tạo ra các ứng dụng giúp tự động hóa các quy trình, phân tích dữ liệu, hoặc quản lý hệ thống. Mục tiêu là tạo ra các công cụ hiệu quả, dễ sử dụng và có thể tùy chỉnh theo nhu cầu của người dùng.</p>
               </div>
 
               <!-- 4th item -->
@@ -351,7 +351,7 @@ onMounted(async () => {
                   <use fill-opacity=".64" fill="#E2EEFF" xlink:href="#fb4-e"></use>
                 </svg>
                 <h3 class="c4ryg chiic cv4op">SEO Web</h3>
-                <p class="csmmp cg9j4">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                <p class="csmmp cg9j4">SEO (Search Engine Optimization) là quá trình tối ưu hóa trang web để cải thiện thứ hạng của nó trên các công cụ tìm kiếm như Google. Nó bao gồm việc sử dụng các kỹ thuật như tối ưu hóa từ khóa, xây dựng liên kết, và cải thiện tốc độ tải trang để tăng cường khả năng hiển thị và thu hút lưu lượng truy cập tự nhiên. Mục tiêu là đạt được thứ hạng cao hơn trong kết quả tìm kiếm và thu hút nhiều khách hàng tiềm năng hơn.</p>
               </div>
 
               <!-- 5th item -->
@@ -383,7 +383,7 @@ onMounted(async () => {
                   <use fill="url(#fb5-e)" xlink:href="#fb5-d"></use>
                 </svg>
                 <h3 class="c4ryg chiic cv4op">Chạy quảng cáo</h3>
-                <p class="csmmp cg9j4">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                <p class="csmmp cg9j4">Chạy quảng cáo là quá trình tạo và quản lý các chiến dịch quảng cáo trên các nền tảng trực tuyến như Google Ads, Facebook Ads, và Instagram Ads. Nó bao gồm việc thiết kế nội dung quảng cáo, lựa chọn đối tượng mục tiêu, và tối ưu hóa chiến dịch để đạt được hiệu quả cao nhất. Mục tiêu là tăng cường nhận diện thương hiệu và thu hút khách hàng tiềm năng.</p>ư
               </div>
 
               <!-- 6th item -->
@@ -415,7 +415,7 @@ onMounted(async () => {
                   <use fill-opacity=".64" fill="#E2EEFF" xlink:href="#fb6-e"></use>
                 </svg>
                 <h3 class="c4ryg chiic cv4op">Viết bài</h3>
-                <p class="csmmp cg9j4">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                <p class="csmmp cg9j4">Tạo ra nội dung văn bản cho các mục đích khác nhau như blog, báo chí, hoặc tài liệu kỹ thuật. Nó bao gồm việc nghiên cứu, lập kế hoạch, viết và chỉnh sửa để đảm bảo nội dung rõ ràng, hấp dẫn và chính xác. Mục tiêu là truyền đạt thông tin một cách hiệu quả và thu hút sự quan tâm của người đọc.</p>ư
               </div>
 
             </div>
