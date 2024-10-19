@@ -249,8 +249,8 @@ onMounted(async () => {
                   <use fill="#000" filter="url(#fb1-d)" xlink:href="#fb1-e"></use>
                   <use fill-opacity=".64" fill="#E2EEFF" xlink:href="#fb1-e"></use>
                 </svg>
-                <h3 class="c4ryg chiic cv4op">Lập trình web</h3>
-                <p class="csmmp cg9j4">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                <h3 class="c4ryg chiic cv4op">Lập trình Website</h3>
+                <p class="csmmp cg9j4">Tạo ra các trang web và ứng dụng web. Nó bao gồm việc sử dụng các ngôn ngữ lập trình như HTML, CSS, JavaScript và các framework như Vue.js, React.js để xây dựng giao diện người dùng và xử lý logic phía máy chủ. Mục tiêu là tạo ra các trang web tương tác, thân thiện với người dùng và đáp ứng nhanh chóng.</p>
               </div>
 
               <!-- 2nd item -->
@@ -287,7 +287,7 @@ onMounted(async () => {
                   <path d="M32.5 36a3.5 3.5 0 110-7 3.5 3.5 0 010 7z" fill-opacity=".64" fill="#5091EE"></path>
                 </svg>
                 <h3 class="c4ryg chiic cv4op">Lập trình Mobile</h3>
-                <p class="csmmp cg9j4">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                <p class="csmmp cg9j4">Quá trình phát triển các ứng dụng di động cho các thiết bị như điện thoại thông minh và máy tính bảng. Nó bao gồm việc sử dụng các ngôn ngữ lập trình như Java, Swift, và Kotlin, cùng với các framework như React Native và Flutter để xây dựng các ứng dụng di động đa nền tảng. Mục tiêu là tạo ra các ứng dụng di động hiệu quả, thân thiện với người dùng và có hiệu suất cao.</p>
               </div>
 
               <!-- 3rd item -->
