@@ -9,7 +9,8 @@ export default defineConfig({
     rollupOptions: {
       input: {
         main: resolve(__dirname, 'index.html'),
-        posts: resolve(__dirname, 'public/posts.json')
+        posts: resolve(__dirname, 'public/posts.json'),
+        customCSS: resolve(__dirname, 'public/style.css')
       }
     }
   }
