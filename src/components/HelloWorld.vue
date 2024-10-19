@@ -249,7 +249,7 @@ onMounted(async () => {
                   <use fill="#000" filter="url(#fb1-d)" xlink:href="#fb1-e"></use>
                   <use fill-opacity=".64" fill="#E2EEFF" xlink:href="#fb1-e"></use>
                 </svg>
-                <h3 class="c4ryg chiic cv4op">Robust Workflow</h3>
+                <h3 class="c4ryg chiic cv4op">Lập trình web</h3>
                 <p class="csmmp cg9j4">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
               </div>
 
@@ -286,7 +286,7 @@ onMounted(async () => {
                   </g>
                   <path d="M32.5 36a3.5 3.5 0 110-7 3.5 3.5 0 010 7z" fill-opacity=".64" fill="#5091EE"></path>
                 </svg>
-                <h3 class="c4ryg chiic cv4op">Robust Workflow</h3>
+                <h3 class="c4ryg chiic cv4op">Lập trình Mobile</h3>
                 <p class="csmmp cg9j4">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
               </div>
 
@@ -318,7 +318,7 @@ onMounted(async () => {
                   <use fill="#000" filter="url(#fb3-c)" xlink:href="#fb3-d"></use>
                   <use fill="url(#fb3-e)" xlink:href="#fb3-d"></use>
                 </svg>
-                <h3 class="c4ryg chiic cv4op">Robust Workflow</h3>
+                <h3 class="c4ryg chiic cv4op">Lập trình Tool</h3>
                 <p class="csmmp cg9j4">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
               </div>
 
@@ -350,7 +350,7 @@ onMounted(async () => {
                   <use fill="#000" filter="url(#fb4-d)" xlink:href="#fb4-e"></use>
                   <use fill-opacity=".64" fill="#E2EEFF" xlink:href="#fb4-e"></use>
                 </svg>
-                <h3 class="c4ryg chiic cv4op">Robust Workflow</h3>
+                <h3 class="c4ryg chiic cv4op">SEO Web</h3>
                 <p class="csmmp cg9j4">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
               </div>
 
@@ -382,7 +382,7 @@ onMounted(async () => {
                   <use fill="#000" filter="url(#fb5-c)" xlink:href="#fb5-d"></use>
                   <use fill="url(#fb5-e)" xlink:href="#fb5-d"></use>
                 </svg>
-                <h3 class="c4ryg chiic cv4op">Robust Workflow</h3>
+                <h3 class="c4ryg chiic cv4op">Chạy quảng cáo</h3>
                 <p class="csmmp cg9j4">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
               </div>
 
@@ -414,7 +414,7 @@ onMounted(async () => {
                   <use fill="#000" filter="url(#fb6-d)" xlink:href="#fb6-e"></use>
                   <use fill-opacity=".64" fill="#E2EEFF" xlink:href="#fb6-e"></use>
                 </svg>
-                <h3 class="c4ryg chiic cv4op">Robust Workflow</h3>
+                <h3 class="c4ryg chiic cv4op">Viết bài</h3>
                 <p class="csmmp cg9j4">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
               </div>
 
