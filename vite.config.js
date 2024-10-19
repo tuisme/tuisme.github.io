@@ -10,7 +10,8 @@ export default defineConfig({
       input: {
         main: resolve(__dirname, 'index.html'),
         posts: resolve(__dirname, 'public/posts.json'),
-        customCSS: resolve(__dirname, 'public/style.css')
+        customCSS: resolve(__dirname, 'public/style.css'),
+        aosCSS: resolve(__dirname, 'public/aos.css'),
       }
     }
   }

@@ -192,7 +192,7 @@ onMounted(async () => {
                 <div id="modal" class="cp4zc cni8m cpccj cui38 c7hvf cw3ae caw21 cmxqt cucgo" role="dialog" aria-modal="true" aria-labelledby="modal-headline" x-show="modalExpanded" x-transition:enter="cebnw ch6f7 cc4ps" x-transition:enter-start="cyixi ctrey" x-transition:enter-end="c03gd cy8ky" x-transition:leave="cebnw ch6f7 cc4ps" x-transition:leave-start="c03gd cy8ky" x-transition:leave-end="cyixi ctrey" style="display: none;">
                   <div class="cgbom cgc3h cwq08 cj439 ce83r" @click.away="modalExpanded = false" @keydown.escape.window="modalExpanded = false">
                     <video x-init="$watch('modalExpanded', value => value ? $el.play() : $el.pause())" class="c58z8 ce83r" width="1920" height="1080" loop="" controls="" __idm_id__="3997697">
-                      <source src="./videos/video.mp4" type="video/mp4">
+                      <source src="https://preview.cruip.com/tidy/videos/video.mp4" type="video/mp4">
                       Your browser does not support the video tag.
                     </video>
                   </div>
