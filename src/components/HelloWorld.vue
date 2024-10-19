@@ -16,10 +16,6 @@ onMounted(async () => {
 
 <template>
   <h1>{{ msg }}</h1>
-
-  import { ref, onMounted } from 'vue'
-
-  defineProps({
   <div class="card">
     <button type="button" @click="count++">count is {{ count }}</button>
     <p>
@@ -45,10 +41,6 @@ onMounted(async () => {
   <p class="read-the-docs">Click on the Vite and Vue logos to learn more</p>
 
   <h2>Danh sách bài viết</h2>
-  msg: String,
-  })
-
-  const count = ref(0)
   <ul>
     <li v-for="post in posts" :key="post.id">
       <h3>{{ post.title }}</h3>
